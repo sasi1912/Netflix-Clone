@@ -68,3 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### npm install react-youtube 
+### npm install movie-trailer
+used to import react-youtube and movie-trailers to the react web app and make the app functional, to check out the feature click on the movie poster once to view the trailer and click again to close it, the function is not available for every movie but the majority of them have this, and this is what makes the web app much more interesting.
